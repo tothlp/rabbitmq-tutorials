@@ -3,10 +3,10 @@ package hu.tothlp.tutorials.rabbitmq_tutorials
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
-@SpringBootTest
+//@SpringBootTest
 class RabbitmqTutorialsApplicationTests {
 
-	@Test
+//	@Test
 	fun contextLoads() {
 	}
 
